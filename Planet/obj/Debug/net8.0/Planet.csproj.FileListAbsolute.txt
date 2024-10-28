@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\Planet\Planet\obj\Debug\net8.0\Planet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Planet\Planet\obj\Debug\net8.0\Planet.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Planet\Planet\obj\Debug\net8.0\Planet.AssemblyInfo.cs
+C:\Users\HP\source\repos\Planet\Planet\obj\Debug\net8.0\Planet.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Planet\Planet\obj\Debug\net8.0\Planet.csproj.AssemblyReference.cache

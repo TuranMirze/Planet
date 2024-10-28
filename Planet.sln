@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "planets", "Planet\planets.csproj", "{554D10BF-D16A-4123-AD79-797B5D2CF57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{5D56B396-EBAD-45AF-AD83-E72CF093C5C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{554D10BF-D16A-4123-AD79-797B5D2CF57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554D10BF-D16A-4123-AD79-797B5D2CF57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554D10BF-D16A-4123-AD79-797B5D2CF57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554D10BF-D16A-4123-AD79-797B5D2CF57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D56B396-EBAD-45AF-AD83-E72CF093C5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D56B396-EBAD-45AF-AD83-E72CF093C5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D56B396-EBAD-45AF-AD83-E72CF093C5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D56B396-EBAD-45AF-AD83-E72CF093C5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {654D52C4-85F1-4EB0-A364-1073CEC5FDF5}
+	EndGlobalSection
+EndGlobal
